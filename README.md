@@ -1,5 +1,7 @@
 # texa
-A draft for how to make a text adventure game:
+A draft for how to make a text adventure game.
+
+Here's what there is so far:
 
 ```
 user=> (load-file "/path/to/texa.clj")
